@@ -95,7 +95,7 @@ DATABASES = {
 """ DATABASES = {
      'default': {
          'ENGINE': 'django.db.backends.postgresql_psycopg2',
-         'NAME': 'autopartes',
+         'NAME': 'demo',
          'USER': 'rod',
          'PASSWORD': 'forever11',
          'HOST': 'localhost',
